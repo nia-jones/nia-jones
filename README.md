@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Nia Jones </h1>
 
-<!--
-**nia-jones/nia-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> :sparkles: Marine Scientist and Data Visualisation Enthusiast :sparkles: </h2>
 
-Here are some ideas to get you started:
+:baby_chick: Twitter: @_niahjones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What am I up to?**
+:ocean: I am currently coming to the end of my PhD in physical oceanography and microplastic pollution at Bangor University, using computer models to track plastic around our coasts. 
+
+:microbe: I am also a Research Officer at Bangor University developing an estuary model for the Conwy (Wales), using the Delft 3D Flexible Mesh hydrodynamic model. The key aim is then to investigate controls on dispersal patterns of macroplastics and microplastics, including their interactions with pathogenic microorganisms.
+
+:computer: I use MATLAB and Python regularly, learning more about their data science applications every day. Over the next year I am hoping to start to learn R, adding to my data science toolbox. 
+
