@@ -2,7 +2,7 @@
 
 :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean:
 
-:baby_chick: Twitter: @_niahjones
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_niahjones?label=Follow%20me&logoColor=magenta&style=social">
 
 ### What am I up to?
 
@@ -12,3 +12,6 @@
 
 :computer: I use **MATLAB and Python** regularly, learning more about their data science applications every day. Over the next year I am hoping to start to learn R, adding to my data science toolbox. 
 
+### Tools 
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
