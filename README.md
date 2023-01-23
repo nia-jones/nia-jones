@@ -1,6 +1,6 @@
-<h1 align="center"> Nia Jones </h1>
+<h2 align="center"> Nia Jones </h1>
 
-<h2 align="center"> :sparkles: Marine Scientist and Data Visualisation Enthusiast :sparkles: </h2>
+:ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean:
 
 :baby_chick: Twitter: @_niahjones
 
