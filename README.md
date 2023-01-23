@@ -1,6 +1,6 @@
-<h2 align="center"> Nia Jones </h1>
+<h1 align="center"> Nia Jones </h1>
 
-:ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean:
+:ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean:
 
 :baby_chick: Twitter: @_niahjones
 
