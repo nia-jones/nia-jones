@@ -1,10 +1,8 @@
 <h1 align="center"> Nia Jones </h1>
 
-:ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean: :ocean:
+### Hi there 👋
 
-### What am I up to?
-
-:ocean: I am currently coming to the end of my **PhD in physical oceanography and microplastic pollution at Bangor University**, using computer models to track plastic around our coasts. 
+:ocean: I am currently coming to the end of my **PhD in physical oceanography and microplastic pollution at Bangor University**, using numerical models to track plastic around our coasts. 
 
 :microbe: I am also a **Research Officer** at Bangor University developing an estuary model for the Conwy (Wales), using the Delft 3D Flexible Mesh hydrodynamic model. The key aim is then to investigate controls on dispersal patterns of macroplastics and microplastics, including their interactions with pathogenic microorganisms.
 
